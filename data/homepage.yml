@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "RIA Autójavító"
-  content : "Ide kell egy frappáns szlogen."
+  content : "Cégünk karosszéria javítással foglalkozik és 1992-es megalakulása óta töretlenül áll az önök szolgálatában. Ez idő alatt már rengeteg elégedett ügyféllel büszkélkedhetünk. Vállalunk hibás vagy sérült, balesetes autók javítását, szélvédőcserét, oldtimer autók teljeskörű restaurálását, fényezés nélküli horpadás javítást, és egyéb karosszériás munkákat.  A biztosítási ügyintézést meghatalmazásal bármelyik biztosítonál tudjuk intézni az ugyfél helyett. A Generali Biztosítóval partneri szerződésben állunk."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
@@ -24,17 +24,17 @@ vision:
   enable : true
   section : "Szolgáltatások"
   vision_item:
-  - title : "Autófényezés"
-    image : "images/vision/vision-01.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
-    
-  - title : "Üvegkár"
-    image : "images/vision/vision-02.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
-    
-  - title : "Karosszéria"
+  - title : "Karosszéria javítás"
     image : "images/vision/vision-03.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : ""
+    
+  - title : "Szélvédőcsere"
+    image : "images/vision/vision-02.jpg"
+    content : ""
+    
+  - title : "Teljeskörű restaurálás"
+    image : "images/vision/vision-01.jpg"
+    content : "Alkatrész beszerzés, Fényezés nélküli horpadásjavítás, Biztosítos ügyintézés"
 
 
 #################### product ####################
@@ -44,19 +44,24 @@ product:
   title : "Referenciák"
   content : "ha még mindig bizonytalan, muntatunk néhányat a munkáink közül."
   product_item:
-  - title : "Ecosystem"
-    image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+  - title : "Lada"
+    image : "images/product/lada.jpg"
+    content : ""
     project_url : "#"
     
-  - title : "Objects"
-    image : "images/product/product-02.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+  - title : "BMW"
+    image : "images/product/bmw.jpg"
+    content : ""
     project_url : "#"
     
-  - title : "Publisher"
-    image : "images/product/product-04.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+  - title : "Alfa"
+    image : "images/product/alfa.jpg"
+    content : ""
+    project_url : "#"
+
+  - title : "Oldtimer"
+    image : "images/product/roll.jpg"
+    content : ""
     project_url : "#"
 
 
@@ -66,7 +71,7 @@ contact:
   section : "Kapcsolat"
   title : "Hívjon minket"
   image : "images/map-bg.jpg"
-  content : "The dawn of the digital age and the need for a significant leap forward is here. We believe that every business has the opportunity to move into this new age with the right mindset. Contact us today to begin understanding how Omega can propel your business."
+  content : "+36 20 344 9909"
 
   
 ################### call to action #################
