@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "RIA Autójavító"
-  content : "Cégünk karosszéria javítással foglalkozik és 1992-es megalakulása óta töretlenül áll az önök szolgálatában. Ez idő alatt már rengeteg elégedett ügyféllel büszkélkedhetünk. Vállalunk hibás vagy sérült, balesetes autók javítását, szélvédőcserét, oldtimer autók teljeskörű restaurálását, fényezés nélküli horpadás javítást, és egyéb karosszériás munkákat.  A biztosítási ügyintézést meghatalmazásal bármelyik biztosítonál tudjuk intézni az ugyfél helyett. A Generali Biztosítóval partneri szerződésben állunk."
+  content : "Cégünk karosszéria javítással foglalkozik és 1992-es megalakulása óta töretlenül áll az önök szolgálatában. Ez idő alatt már rengeteg elégedett ügyféllel büszkélkedhetünk. Vállalunk hibás vagy sérült, balesetes autók javítását, szélvédőcserét, oldtimer autók teljeskörű restaurálását, és egyéb karosszériás munkákat.  A biztosítási ügyintézést meghatalmazásal bármelyik biztosítonál tudjuk intézni az ugyfél helyett. A Generali Biztosítóval partneri szerződésben állunk."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
@@ -34,7 +34,7 @@ vision:
     
   - title : "Teljeskörű restaurálás"
     image : "images/vision/vision-01.jpg"
-    content : "Alkatrész beszerzés, Fényezés nélküli horpadásjavítás, Biztosítos ügyintézés"
+    content : "Alkatrész beszerzés, Biztosítos ügyintézés"
 
 
 #################### product ####################
