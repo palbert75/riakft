@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://riakft.netlify.com"
+baseURL = "https://riakft.netlify.app"
 title = "Karosszéria Kft."
 theme = "omega"
 # google analytics
